@@ -1,4 +1,4 @@
-#include "MergeSort.h"
+#include "QuickSort.h"
 
 /*
 1. Merge Sort
@@ -22,10 +22,10 @@ int main()
 	//vector<int> arr = { -20,100,-36 };
 	//vector<int> arr = { -100};
 
-	// 1. Merge Sort
+	// 1. Quick Sort
 	int startIndex = 0;
 	int endIndex = (int)(arr.size() - 1);
-	vector<int> mergedArray = MergeSort(arr, startIndex, endIndex);
+	vector<int> mergedArray = QuickSort(arr, startIndex, endIndex);
 	cout << "\n Sorted array:- ";
 	for (int i = 0; i < mergedArray.size(); i++)
 	{
