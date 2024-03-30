@@ -1,4 +1,4 @@
-#include "CountSort.h"
+#include "RedixSort.h"
 
 /*
 1. Merge Sort
@@ -18,15 +18,16 @@
 
 int main()
 {
-	vector<int> arr = { 2,1,7,0,9,9,3,6,6 };
+	vector<int> arr = { 32,134455,7,23,9,99,3,63,646,1,8,234,300000};
+	//vector<int> arr = { 32,1345,72};
 
-	// 3. Count Sort
+	// 4. Redix Sort
 	cout << "\n UnSorted array:- ";
 	for (int i = 0; i < arr.size(); i++)
 	{
 		cout << arr[i] << "\t";
 	}
-	CountSort(arr);
+	RedixSort(arr);
 	cout << "\n Sorted array:- ";
 	for (int i = 0; i < arr.size(); i++)
 	{
