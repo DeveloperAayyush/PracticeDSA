@@ -3,20 +3,46 @@
   "WorkspaceRootPath": "D:\\repos\\PracticeDSA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\SelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\SelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\BinaryInsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\BinaryInsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\VECTOR||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\QuickSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\QuickSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\BinaryInsertionSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\BinaryInsertionSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\InsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\InsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\BubbleSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\BubbleSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\InsertionSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\InsertionSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\SelectionSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\SelectionSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\QuickSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\QuickSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\SelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\SelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +52,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +60,107 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "new_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T06:08:27.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ViewState": "AQIAAFkHAAAAAAAAAAAtwGQHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-31T05:33:25.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BinaryInsertionSort.h",
+              "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\BinaryInsertionSort.h",
+              "RelativeDocumentMoniker": "PracticeDSA\\BinaryInsertionSort.h",
+              "ToolTip": "D:\\repos\\PracticeDSA\\PracticeDSA\\BinaryInsertionSort.h",
+              "RelativeToolTip": "PracticeDSA\\BinaryInsertionSort.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-31T05:17:44.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinaryInsertionSort.cpp",
+              "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\BinaryInsertionSort.cpp",
+              "RelativeDocumentMoniker": "PracticeDSA\\BinaryInsertionSort.cpp",
+              "ToolTip": "D:\\repos\\PracticeDSA\\PracticeDSA\\BinaryInsertionSort.cpp",
+              "RelativeToolTip": "PracticeDSA\\BinaryInsertionSort.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T05:17:34.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InsertionSort.h",
+              "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\InsertionSort.h",
+              "RelativeDocumentMoniker": "PracticeDSA\\InsertionSort.h",
+              "ToolTip": "D:\\repos\\PracticeDSA\\PracticeDSA\\InsertionSort.h",
+              "RelativeToolTip": "PracticeDSA\\InsertionSort.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-31T04:56:24.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BubbleSort.h",
+              "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\BubbleSort.h",
+              "RelativeDocumentMoniker": "PracticeDSA\\BubbleSort.h",
+              "ToolTip": "D:\\repos\\PracticeDSA\\PracticeDSA\\BubbleSort.h",
+              "RelativeToolTip": "PracticeDSA\\BubbleSort.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-31T04:56:13.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsertionSort.cpp",
+              "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\InsertionSort.cpp",
+              "RelativeDocumentMoniker": "PracticeDSA\\InsertionSort.cpp",
+              "ToolTip": "D:\\repos\\PracticeDSA\\PracticeDSA\\InsertionSort.cpp",
+              "RelativeToolTip": "PracticeDSA\\InsertionSort.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T04:55:59.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Source.cpp",
               "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\Source.cpp",
               "RelativeDocumentMoniker": "PracticeDSA\\Source.cpp",
               "ToolTip": "D:\\repos\\PracticeDSA\\PracticeDSA\\Source.cpp",
               "RelativeToolTip": "PracticeDSA\\Source.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAOAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-30T13:46:32.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "QuickSort.h",
               "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\QuickSort.h",
               "RelativeDocumentMoniker": "PracticeDSA\\QuickSort.h",
@@ -60,29 +173,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "SelectionSort.h",
               "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\SelectionSort.h",
               "RelativeDocumentMoniker": "PracticeDSA\\SelectionSort.h",
               "ToolTip": "D:\\repos\\PracticeDSA\\PracticeDSA\\SelectionSort.h",
               "RelativeToolTip": "PracticeDSA\\SelectionSort.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-30T13:37:54.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "SelectionSort.cpp",
               "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\SelectionSort.cpp",
               "RelativeDocumentMoniker": "PracticeDSA\\SelectionSort.cpp",
               "ToolTip": "D:\\repos\\PracticeDSA\\PracticeDSA\\SelectionSort.cpp",
               "RelativeToolTip": "PracticeDSA\\SelectionSort.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-30T13:37:43.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-30T13:37:43.033Z"
             }
           ]
         }
