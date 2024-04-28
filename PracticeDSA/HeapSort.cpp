@@ -3,7 +3,7 @@
 void CreateHeap(vector<int>& arr, int start, int end)
 {
 	// starting after leaving the leaf nodes.
-	for (int i = end/2; i > 0; i--)
+	for (int i = end/2 ; i > 0; i--)
 	{
 		Heapify(arr, i, end);
 	}
@@ -47,12 +47,12 @@ void DeleteNode(vector<int>& arr)
 	int i = arr.size() - 1;
 	arr[1] = arr[i];
 	arr.erase(arr.begin() + i);
-	CreateHeap(arr, 0, arr.size() - 1);
+	CreateHeap(arr, 0, arr.size());
 }
 
 void InsertNode(int value, vector<int>& arr)
 {
 	arr.push_back(value);
-	CreateHeap(arr, 0, arr.size() - 1);
+	CreateHeap(arr, 0, arr.size());
 }
 
