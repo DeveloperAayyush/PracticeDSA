@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -130,6 +130,7 @@
     <ClCompile Include="BinaryInsertionSort.cpp" />
     <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="CountSort.cpp" />
+    <ClCompile Include="HeapSort.cpp" />
     <ClCompile Include="InsertionSort.cpp" />
     <ClCompile Include="MergeSort.cpp" />
     <ClCompile Include="QuickSort.cpp" />
@@ -141,6 +142,7 @@
     <ClInclude Include="BinaryInsertionSort.h" />
     <ClInclude Include="BubbleSort.h" />
     <ClInclude Include="CountSort.h" />
+    <ClInclude Include="HeapSort.h" />
     <ClInclude Include="InsertionSort.h" />
     <ClInclude Include="RedixSort.h" />
     <ClInclude Include="MergeSort.h" />

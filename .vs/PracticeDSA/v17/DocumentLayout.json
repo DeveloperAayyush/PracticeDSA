@@ -3,15 +3,27 @@
   "WorkspaceRootPath": "D:\\repos\\PracticeDSA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\HeapSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\HeapSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\BinaryInsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\BinaryInsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\HeapSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\HeapSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\VECTOR||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|D:\\repos\\PracticeDSA\\PracticeDSA\\BinaryInsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F38D6144-91E4-4D30-B7F6-CF7D7B5DC679}|PracticeDSA\\PracticeDSA.vcxproj|solutionrelative:PracticeDSA\\BinaryInsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -52,7 +64,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,28 +73,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "new_scalar.cpp",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp",
-              "ViewState": "AQIAABgAAAAAAAAAAAAcwCMAAAAAAAAA",
+              "Title": "MergeSort.cpp",
+              "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\MergeSort.cpp",
+              "RelativeDocumentMoniker": "PracticeDSA\\MergeSort.cpp",
+              "ToolTip": "D:\\repos\\PracticeDSA\\PracticeDSA\\MergeSort.cpp",
+              "RelativeToolTip": "PracticeDSA\\MergeSort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-31T06:08:27.577Z",
+              "WhenOpened": "2024-04-23T16:29:42.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeapSort.cpp",
+              "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\HeapSort.cpp",
+              "RelativeDocumentMoniker": "PracticeDSA\\HeapSort.cpp",
+              "ToolTip": "D:\\repos\\PracticeDSA\\PracticeDSA\\HeapSort.cpp",
+              "RelativeToolTip": "PracticeDSA\\HeapSort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T15:08:28.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "HeapSort.h",
+              "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\HeapSort.h",
+              "RelativeDocumentMoniker": "PracticeDSA\\HeapSort.h",
+              "ToolTip": "D:\\repos\\PracticeDSA\\PracticeDSA\\HeapSort.h",
+              "RelativeToolTip": "PracticeDSA\\HeapSort.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-10T15:08:10.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "new_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T06:08:27.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "vector",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
               "ViewState": "AQIAAFkHAAAAAAAAAAAtwGQHAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-31T05:33:25.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T05:33:25.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "BinaryInsertionSort.h",
               "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\BinaryInsertionSort.h",
               "RelativeDocumentMoniker": "PracticeDSA\\BinaryInsertionSort.h",
@@ -90,25 +139,23 @@
               "RelativeToolTip": "PracticeDSA\\BinaryInsertionSort.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-31T05:17:44.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T05:17:44.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "BinaryInsertionSort.cpp",
               "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\BinaryInsertionSort.cpp",
               "RelativeDocumentMoniker": "PracticeDSA\\BinaryInsertionSort.cpp",
               "ToolTip": "D:\\repos\\PracticeDSA\\PracticeDSA\\BinaryInsertionSort.cpp",
               "RelativeToolTip": "PracticeDSA\\BinaryInsertionSort.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-31T05:17:34.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T05:17:34.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "InsertionSort.h",
               "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\InsertionSort.h",
               "RelativeDocumentMoniker": "PracticeDSA\\InsertionSort.h",
@@ -116,12 +163,11 @@
               "RelativeToolTip": "PracticeDSA\\InsertionSort.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-31T04:56:24.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T04:56:24.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "BubbleSort.h",
               "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\BubbleSort.h",
               "RelativeDocumentMoniker": "PracticeDSA\\BubbleSort.h",
@@ -129,12 +175,11 @@
               "RelativeToolTip": "PracticeDSA\\BubbleSort.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-31T04:56:13.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T04:56:13.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "InsertionSort.cpp",
               "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\InsertionSort.cpp",
               "RelativeDocumentMoniker": "PracticeDSA\\InsertionSort.cpp",
@@ -142,25 +187,24 @@
               "RelativeToolTip": "PracticeDSA\\InsertionSort.cpp",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAABkAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-31T04:55:59.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T04:55:59.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Source.cpp",
               "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\Source.cpp",
               "RelativeDocumentMoniker": "PracticeDSA\\Source.cpp",
               "ToolTip": "D:\\repos\\PracticeDSA\\PracticeDSA\\Source.cpp",
               "RelativeToolTip": "PracticeDSA\\Source.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAUAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwDUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-30T13:46:32.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "QuickSort.h",
               "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\QuickSort.h",
               "RelativeDocumentMoniker": "PracticeDSA\\QuickSort.h",
@@ -168,12 +212,11 @@
               "RelativeToolTip": "PracticeDSA\\QuickSort.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-30T13:38:02.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-30T13:38:02.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "SelectionSort.h",
               "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\SelectionSort.h",
               "RelativeDocumentMoniker": "PracticeDSA\\SelectionSort.h",
@@ -181,12 +224,11 @@
               "RelativeToolTip": "PracticeDSA\\SelectionSort.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-30T13:37:54.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-30T13:37:54.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "SelectionSort.cpp",
               "DocumentMoniker": "D:\\repos\\PracticeDSA\\PracticeDSA\\SelectionSort.cpp",
               "RelativeDocumentMoniker": "PracticeDSA\\SelectionSort.cpp",

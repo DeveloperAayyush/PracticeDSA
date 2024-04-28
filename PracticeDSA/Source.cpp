@@ -1,4 +1,4 @@
-#include "BinaryInsertionSort.h"
+#include "HeapSort.h"
 
 /*
 1. Merge Sort
@@ -20,9 +20,9 @@
 
 int main()
 {
-	vector<int> arr = { -32,134455,7,23,9,99,3,63,646,1,8,234,-300000};
-	vector<int> arr = { };
-	//vector<int> arr = { 32,1345,72};
+	vector<int> arr = { -32,134455,7,23,9,7,7,99/*,3,63,646,1,8,234,-300000 */ };
+	//vector<int> arr = { };
+	//vector<int> arr = { 32,1345,72,11,32,-74};
 
 	// 8. BinaryInsertion Sort
 	cout << "\n UnSorted array:- ";
@@ -30,11 +30,33 @@ int main()
 	{
 		cout << arr[i] << "\t";
 	}
-	BinaryInsertionSort(arr);
+	// using 1 based indexing
+	arr.insert(arr.begin(), -1);
+
+	HeapSort(arr);
 	cout << "\n Sorted array:- ";
 	for (int i = 0; i < arr.size(); i++)
 	{
 		cout << arr[i] << "\t";
 	}
+	DeleteNode(arr);
+	DeleteNode(arr);
+	//HeapSort(arr);
+	cout << "\n Heap array after deletion:- ";
+	for (int i = 0; i < arr.size(); i++)
+	{
+		cout << arr[i] << "\t";
+	}
+
+	InsertNode(3223, arr);
+	InsertNode(62, arr);
+
+	cout << "\n Heap array after insertion:- ";
+	for (int i = 0; i < arr.size(); i++)
+	{
+		cout << arr[i] << "\t";
+	}
+
 	return 0;
+	
 }
